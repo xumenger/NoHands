@@ -1,2 +1,0 @@
-# Nohands
-Auto test framework
